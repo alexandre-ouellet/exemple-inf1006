@@ -21,3 +21,6 @@ Proin volutpat mollis neque, quis mattis libero. Vivamus interdum, neque eleifen
 
 Fusce pharetra malesuada mauris, et malesuada erat pretium vitae. Sed sit amet velit tortor. Duis et auctor massa, sit amet congue ex. Praesent porta ultricies justo, ut hendrerit tortor tristique vitae. Donec quis cursus velit. Fusce nec diam sem. Nunc ac posuere quam, sed tincidunt tellus. Cras vel accumsan neque, vitae pellentesque sem. Phasellus et turpis sed diam sagittis viverra. Fusce sed odio sed erat blandit tristique. Fusce neque nisl, bibendum at diam quis, posuere elementum quam.
 
+|Section 2
+
+Cette section est la suite de la section 1
