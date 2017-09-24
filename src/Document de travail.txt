@@ -1,10 +1,10 @@
 Premier document de travail
 
-<<<<<<< HEAD
+
 Tables des matières
 
 Section 1 ....... x
-=======
+
 |Section 1
 
 Cette section contiendra le contenu de la section 1
@@ -20,4 +20,4 @@ Aenean elementum congue scelerisque. Cras ac tortor vitae justo hendrerit luctus
 Proin volutpat mollis neque, quis mattis libero. Vivamus interdum, neque eleifend rutrum congue, massa risus tempor mauris, condimentum molestie metus nunc quis ex. Proin purus arcu, finibus non neque sed, mollis condimentum ex. Fusce vestibulum dui et ligula tincidunt facilisis. Praesent ultricies sapien nulla, id lobortis tortor ultrices eget. Sed et lacus arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur scelerisque mauris orci, id eleifend felis malesuada sed. Etiam commodo consequat dui, in elementum orci pretium elementum. In et diam et augue consectetur interdum vitae ut sapien. Proin vel risus tellus. Suspendisse at elit velit. Praesent dictum euismod hendrerit.
 
 Fusce pharetra malesuada mauris, et malesuada erat pretium vitae. Sed sit amet velit tortor. Duis et auctor massa, sit amet congue ex. Praesent porta ultricies justo, ut hendrerit tortor tristique vitae. Donec quis cursus velit. Fusce nec diam sem. Nunc ac posuere quam, sed tincidunt tellus. Cras vel accumsan neque, vitae pellentesque sem. Phasellus et turpis sed diam sagittis viverra. Fusce sed odio sed erat blandit tristique. Fusce neque nisl, bibendum at diam quis, posuere elementum quam.
->>>>>>> section_1
+
